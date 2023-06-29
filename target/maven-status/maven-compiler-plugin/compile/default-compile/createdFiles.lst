@@ -1,0 +1,16 @@
+base\FakeData.class
+base\Action.class
+pageobjects\Headers.class
+pageobjects\NavigationLinks.class
+base\SetupDriver.class
+pageobjects\Inventory.class
+listeners\AllureListener.class
+pageobjects\HomePage.class
+pageobjects\Cart.class
+pageobjects\RegisterForm.class
+base\DriverFactory.class
+pageobjects\ForgetLoginPage.class
+pageobjects\LogInPage.class
+pageobjects\ProductPage.class
+base\Loggers.class
+pageobjects\FooterLinks.class

@@ -1,0 +1,6 @@
+tests\InProductTests.class
+tests\RegisterFunctionality.class
+tests\LogInTests.class
+util\GetJsonFileInvalidData.class
+tests\InventortTests.class
+util\GetExcelData.class
